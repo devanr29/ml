@@ -1,7 +1,6 @@
-flask
 numpy
 openpyxl
 pandas
 scikit-learn
 joblib
-openpyxl
+gunicorn
