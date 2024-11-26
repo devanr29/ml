@@ -1,4 +1,6 @@
-streamlit
+flask
+numpy
+openpyxl
 pandas
 scikit-learn
 joblib
