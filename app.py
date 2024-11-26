@@ -45,4 +45,4 @@ def predict():
     return jsonify({'predictions': unscaled_predictions.tolist()})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
